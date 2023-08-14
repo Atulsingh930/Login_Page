@@ -7,7 +7,6 @@ function Login({setIsLoggedIn}) {
       <Template
       title="Welcome Back"
       desc1="Build skills for today, tomorrow, and beyond."
-      desc2="Education to future-proof your career."
       image={loginIng}
       formType="Login"
       setIsLoggedIn={setIsLoggedIn}/>
